@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @whoynes
+- 👀 I’m interested in ... unsupervised models and how they can be applied in a real world setting to achieve insights and solutions. 
+- 🌱 I’m currently learning ... I'm currently learning a lot via my masters, 
+- but have been working on leadership and further exposure to data applications in the real world. Also learning about 
+- customer service operations using visualization to NLP models.
+- 💞️ I’m looking to collaborate on ... mixture models for data based clustering
+- 📫 How to reach me ... hoynesw@gmail.com
