@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @whoynes
-- 👀 I’m interested in ... unsupervised models and how they can be applied in a real world setting to achieve insights and solutions. 
-- 🌱 I’m currently learning ... I'm currently learning a lot via my masters, 
-- but have been working on leadership and further exposure to data applications in the real world. Also learning about 
-- customer service operations using visualization to NLP models.
-- 💞️ I’m looking to collaborate on ... mixture models for data based clustering
-- 📫 How to reach me ... hoynesw@gmail.com
+Hi, I’m Will Hoynes
+I’m interested in data analytics and AI to have a positive impact on the world.
+I'm currently perusing a Master of Science in Computational Data Analytics from Georgia Tech. 
+I’m looking to collaborate on LLM project within the healthcare space.
+How to reach me hoynesw@gmail.com or whoynes3@gatech.edu
+
